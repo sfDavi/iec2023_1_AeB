@@ -1,6 +1,7 @@
 Repositório dos projetos de IEC 2023_1
 
-- Faça um fork
+- Fazer Fork
 - Criar uma pasta -> Entregas - Seu nome
-- A partir do projeto -> Pull Request e Commit
-- Só isso!
+- Fazer Pull Request
+- Fazer Commit
+Só isso!
